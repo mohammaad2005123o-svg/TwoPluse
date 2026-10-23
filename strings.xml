@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TwoPluse</string>
+    <string name="app_tagline">منصة الإنتاجية وتطوير الذات المتقدمة</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_tasks">المهام</string>
+    <string name="nav_habits">العادات</string>
+    <string name="nav_study">الدراسة</string>
+    <string name="nav_progress">تقدمي</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="goals_title">تطوير الذات والأهداف</string>
+    <string name="search_title">البحث الشامل</string>
+    <string name="planning_title">التخطيط اليومي والأسبوعي</string>
+    <string name="notification_channel_tasks">تذكيرات المهام</string>
+    <string name="notification_channel_habits">تذكيرات العادات</string>
+    <string name="notification_channel_study">جلسات الدراسة والاختبارات</string>
+    <string name="notification_channel_planning">المراجعة والتخطيط الأسبوعي</string>
+</resources>

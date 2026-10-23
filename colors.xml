@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_bg_primary">#FF120232</color>
+    <color name="deep_bg_secondary">#FF1F0345</color>
+    <color name="electric_purple_dark">#FF5305A1</color>
+    <color name="electric_purple">#FF6D2AC9</color>
+    <color name="luminous_purple">#FF8351F5</color>
+    <color name="electric_blue">#FF587DF1</color>
+    <color name="luminous_cyan">#FF66D1FC</color>
+    <color name="lavender">#FFA087F5</color>
+    <color name="soft_pink_purple">#FFC58AEF</color>
+    <color name="primary_white">#FFFFFFFF</color>
+</resources>

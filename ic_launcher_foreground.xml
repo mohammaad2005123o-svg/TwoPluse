@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Futuristic Progress Arc -->
+    <path
+        android:pathData="M54,24 A30,30 0 1,1 26,64"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="24"
+                android:startY="24"
+                android:endX="84"
+                android:endY="84"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF66D1FC" />
+                <item android:offset="0.5" android:color="#FF8351F5" />
+                <item android:offset="1.0" android:color="#FFC58AEF" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Primary Plus (Luminous Violet -> Cyan) -->
+    <path
+        android:pathData="M45,35 h6 v11 h11 v6 h-11 v11 h-6 v-11 h-11 v-6 h11 z"
+        android:fillColor="#FF66D1FC" />
+    <!-- Secondary Ascendant Plus (Dual-Plus Concept: Soft Pink-Purple / Lavender) -->
+    <path
+        android:pathData="M64,47 h5 v8 h8 v5 h-8 v8 h-5 v-8 h-8 v-5 h8 z"
+        android:fillColor="#FFC58AEF" />
+</vector>
